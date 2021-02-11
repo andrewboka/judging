@@ -1,0 +1,12 @@
+channels:
+  - pytorch
+  - conda-forge
+  - anaconda
+  - oxfordcontrol
+  - defaults
+dependencies:
+  - python=3.5
+  - numpy
+  - pandas
+  - sklearn
+  - opencv
