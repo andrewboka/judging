@@ -7,8 +7,14 @@ channels:
 dependencies:
   - python=3.5
   - numpy
+  - pytorch
+  - pillow
   - pandas
+  - matplotlib
+  - torchvision
   - mesa-libgl-cos6-x86_64
   - opencv
   - pip:
-    - scikit-learn
+    - sk-video
+    - utils
+
